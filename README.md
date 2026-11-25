@@ -3,7 +3,7 @@
 
 A lightweight Python statistical simulation and number-sequence generator designed for **US Powerball** (`5` unique main numbers from `1–69` + `1` Powerball from `1–26`).
 
-Built as an interactive computational companion to speculative sci-fi storytelling, this engine analyzes historical draw frequencies, exponential recency decay, rolling sum bounds, and substrate parity thresholds (`a = 0.29213`) to generate filtered candidate sets and run walk-forward backtests.
+Built as an interactive computational companion to sci-fi storytelling, this engine analyzes historical draw frequencies, exponential recency decay, rolling sum bounds, and substrate parity thresholds (`a = 0.29213`) to generate filtered candidate sets and run walk-forward backtests.
 
 ---
 
