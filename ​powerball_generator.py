@@ -14,9 +14,8 @@ PB_MIN, PB_MAX = 1, 26
 PARITY_A = 0.29213
 PARITY_B = round(1.0 - PARITY_A, 5)
 
-# Inlocuieste USER si REPO_NAME cu numele tau de GitHub si numele repository-ului
 GITHUB_PB_CSV_RAW_URL = (
-    "https://raw.githubusercontent.com/USER/REPO_NAME/main/powerball_archive.csv"
+    "https://raw.githubusercontent.com/sorin-create/powerball_generator.py/main/powerball_archive.csv"
 )
 DEFAULT_PB_CSV_PATH = Path("powerball_archive.csv")
 
